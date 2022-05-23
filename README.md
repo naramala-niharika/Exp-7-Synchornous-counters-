@@ -89,12 +89,21 @@ endmodule
 ### Output:
 
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  :
+UC:
+
 ![Output](https://github.com/naramala-niharika/Exp-7-Synchornous-counters-/blob/main/uc.PNG?raw=true)
+
+DC : 
+
 ![Output](https://github.com/naramala-niharika/Exp-7-Synchornous-counters-/blob/main/dc.PNG?raw=true)
 
 ### TIMING DIGRAMS FOR COUNTER:
+UC :
 
 ![Output](https://github.com/naramala-niharika/Exp-7-Synchornous-counters-/blob/main/UC%20timing.jpg?raw=true)
+
+DC :
+
 ![Output](https://github.com/naramala-niharika/Exp-7-Synchornous-counters-/blob/main/DC%20timing.jpg?raw=true)
 
 ### TRUTH TABLE :
