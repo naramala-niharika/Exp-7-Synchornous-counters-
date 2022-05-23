@@ -45,8 +45,25 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 
 
 4-bit Count Down Counter
-### Procedure
-/* write all the steps invloved */
+### Procedure:
+Step 1:
+Create a new file in quartus II.
+
+Step 2:
+Module Declaration. Module should have the file name.
+
+Step 3:
+Use begin declaration to define the functionality of logic circuits.
+
+Step 4:
+Within begin use if and else statements.
+
+Step 5:
+At the end give endmodule.
+
+Step 6:
+Run the program and choose RTL viewer to get RTL realization.
+
 
 
 
@@ -88,27 +105,28 @@ endmodule
 ```
 ### Output:
 
-### RTL LOGIC UP COUNTER AND DOWN COUNTER  :
-UC:
+### RTL LOGIC UP COUNTER   :
 
 ![Output](https://github.com/naramala-niharika/Exp-7-Synchornous-counters-/blob/main/uc.PNG?raw=true)
 
-DC : 
-
-![Output](https://github.com/naramala-niharika/Exp-7-Synchornous-counters-/blob/main/dc.PNG?raw=true)
-
-### TIMING DIGRAMS FOR COUNTER:
-UC :
+### TIMING DIGRAMS FOR  UP COUNTER:
 
 ![Output](https://github.com/naramala-niharika/Exp-7-Synchornous-counters-/blob/main/UC%20timing.jpg?raw=true)
 
-DC :
+### TRUTH TABLE OF UP COUNTER :
+
+![Output](https://github.com/naramala-niharika/Exp-7-Synchornous-counters-/blob/main/uc.png?raw=true)
+
+### RTL LOGIC DOWN COUNTER   :
+![Output](https://github.com/naramala-niharika/Exp-7-Synchornous-counters-/blob/main/dc.PNG?raw=true)
+
+### TIMING DIGRAMS FOR COUNTER:
 
 ![Output](https://github.com/naramala-niharika/Exp-7-Synchornous-counters-/blob/main/DC%20timing.jpg?raw=true)
 
-### TRUTH TABLE :
-![Output](?raw=true)
-![Output](?raw=true)
+### TRUTH TABLE OF DOWN COUNTER :
+
+![Output](https://github.com/naramala-niharika/Exp-7-Synchornous-counters-/blob/main/dc.png?raw=true)
 
 ### RESULTS :
-
+The 4 bit up and down counters has been implemented and validated the functionality.
